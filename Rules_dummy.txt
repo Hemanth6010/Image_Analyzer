@@ -1,0 +1,8 @@
+STARTUP_FITNESS_PROTOCOL_2026:
+Rule 1: If a client has a lean physique but wants to reduce abdominal fat, never prescribe fat burners. Instead, enforce the "Lean Core Protocol" which consists of high-intensity core stabilization (3 sets of 45-second planks, 3 sets of 15 hanging leg raises) combined with a slight caloric surplus (+150 calories) focusing on lean protein.
+
+Rule 2: For clients with a high fat accumulation profile, our signature "Metabolic Reset Plan" requires prioritizing progressive resistance strength training 4 times a week before adding any high-intensity cardio. Cardio must be limited to 20 minutes of LISS (Low-Intensity Steady State) walking post-workout.
+
+Rule 3: Daily water intake for any active training program must be calculated exactly as: Body Weight in kg multiplied by 35ml.
+
+Rule 4: Sleep target across all protocols must be a hard minimum of 7.5 hours to optimize cortisol levels and muscle recovery.

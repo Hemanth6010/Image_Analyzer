@@ -1,0 +1,24 @@
+
+# OpenAI integration
+openai
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+
+# Vector database
+langchain-chroma
+chromadb
+
+# Image processing and hosting
+Pillow
+cloudinary
+
+# Environment variables
+python-dotenv
+
+# Structured output
+pydantic

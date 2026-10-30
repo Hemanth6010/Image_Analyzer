@@ -1,0 +1,20 @@
+
+# Personal images
+test.jpg
+test1.jpg
+test2.jpg
+
+# Local cache and vector database
+*.db
+chroma_db/
+
+# API keys and secrets
+.env
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+image_registry.json
