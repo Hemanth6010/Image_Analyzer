@@ -123,6 +123,3 @@ This project is an experimental fitness assistance tool. Its outputs are intende
 - Improve structured response handling.
 - Develop a user-friendly interface.
 
-## License
-
-This project is distributed under the license included in this repository.
